@@ -20,7 +20,7 @@
 > short IC pin No 6 and C9.<br>
 <table>
   <tbody>
-    <tr><td>PinNo.6</td><td><-- short --></td><td>C9</td></tr>
+    <tr><td>Pin 6</td><td><-- short --></td><td>C9</td></tr>
   </tbody>
 </table>
 
@@ -69,6 +69,11 @@
 
 ## Cheat sheet
 
-> Pin 6 and 18 short.<br>
-> Pin 7 and 13 short.<br>
-> Pin 8 and 14 short.<br>
+> <table>
+  <tbody>
+    <tr><td>Pin 6</td><td><-- short --></td><td>Pin 18</td></tr>
+    <tr><td>Pin 7</td><td><-- short --></td><td>Pin 13</td></tr>
+    <tr><td>Pin 8</td><td><-- short --></td><td>Pin 14</td></tr>
+    <tr><td>C3</td><td><-- short --></td><td>C17</td></tr>
+  </tbody>
+</table>
