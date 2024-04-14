@@ -1,18 +1,18 @@
 # How to remove bluetooth from ZK-TB21 or ZK-MT21
 
-ZK-21TB is 2.1ch Amplifier<br>
+## ZK-21TB is 2.1ch power amplifier.<br>
 <img src="./image/ZK-TB21.png" width="80%">
 <br>
 
-Bluetooth chip is AC32BP. No datasheet available.<br>
+## Bluetooth chip is AC32BP. No datasheet available.<br>
 <img src="./image/AC23BP.png" width="40%">
 <br>
 
-Remove the chip from the board.<br>
+## Remove the chip from the board.<br>
 <img src="./image/remove_chip.png" width="60%">
 <br>
 
-Removed IC.<br>
+## Removed IC.<br>
 <img src="./image/AC23BP_chip.png" width="40%">
 <br>
 
@@ -28,14 +28,15 @@ Removed IC.<br>
 <img src="./image/line_out.png" width="40%">
 <br>
 
-Board with Bluetooth removed.<br>
+## Board with Bluetooth removed.<br>
 <img src="./image/removed_bt_chip.png" width="80%">
 <br>
 
+## AC23BP chip pin layout
 <table>
   <thead>
     <tr>
-      <th colspan="4">AS23BP</th>
+      <th colspan="4">AC23BP</th>
     </tr>
   </thead>
   <tbody>
@@ -114,4 +115,8 @@ Board with Bluetooth removed.<br>
   </tbody>
 </table>
 
+## Cheat sheet
 
+> Pin 6 and 18 short.<br>
+> Pin 7 and 13 short.<br>
+> Pin 8 and 14 short.<br>
