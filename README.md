@@ -4,7 +4,7 @@
 <img src="./image/ZK-TB21.png" width="80%">
 <br>
 
-## Bluetooth chip is AC32BP. No datasheet available.<br>
+## Bluetooth chip is JL AC23BP. No datasheet available.<br>
 <img src="./image/AC23BP.png" width="40%">
 <br>
 
