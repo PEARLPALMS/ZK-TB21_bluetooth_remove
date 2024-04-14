@@ -70,10 +70,9 @@
 ## Cheat sheet
 
 > <table>
-  <tbody>
-    <tr><td>Pin 6</td><td><-- short --></td><td>Pin 18</td></tr>
-    <tr><td>Pin 7</td><td><-- short --></td><td>Pin 13</td></tr>
-    <tr><td>Pin 8</td><td><-- short --></td><td>Pin 14</td></tr>
-    <tr><td>C3</td><td><-- short --></td><td>C17</td></tr>
-  </tbody>
-</table>
+>   <tbody>
+>     <tr><td>Pin 6</td><td><-- short --></td><td>Pin 18</td></tr>
+>     <tr><td>Pin 7</td><td><-- short --></td><td>Pin 13</td></tr>
+>     <tr><td>Pin 8</td><td><-- short --></td><td>Pin 14</td></tr>
+>   </tbody>
+> </table>
