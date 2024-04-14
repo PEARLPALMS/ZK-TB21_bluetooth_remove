@@ -24,6 +24,7 @@
 ## Bypass audio signal.<br>
 > short C2 and C15. Left audio channel signal.<br>
 > short C3 and C17. Right audio channel signal.<br>
+
 <img src="./image/line_in.png" width="40%"> <img src="./image/line_out.png" width="40%">
 <br>
 
