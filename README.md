@@ -18,6 +18,7 @@
 
 ## Short the power signal.<br>
 > short IC pin No 6 and C9.<br>
+
 <img src="./image/short_power_signal.png" width="60%">
 <br>
 
