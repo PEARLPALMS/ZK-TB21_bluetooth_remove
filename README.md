@@ -20,7 +20,7 @@
 > short IC pin No 6 and C9.<br>
 <table>
   <tbody>
-    <tr><td>PinNo.6</td><td><--short--></td><td>C9</td></tr>
+    <tr><td>PinNo.6</td><td><-- short --></td><td>C9</td></tr>
   </tbody>
 </table>
 
@@ -32,8 +32,8 @@
 > short C3 and C17. Right audio channel signal.<br>
 <table>
   <tbody>
-    <tr><td>C2</td><td><--short--></td><td>C15</td></tr>
-    <tr><td>C3</td><td><--short--></td><td>C17</td></tr>
+    <tr><td>C2</td><td><-- short --></td><td>C15</td></tr>
+    <tr><td>C3</td><td><-- short --></td><td>C17</td></tr>
   </tbody>
 </table>
 
