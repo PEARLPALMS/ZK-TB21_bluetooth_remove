@@ -5,27 +5,27 @@ ZK-21TB is 2.1ch Amplifier<br>
 <br>
 
 Bluetooth chip is AC32BP. No datasheet available.<br>
-<img src="./image/AC23BP.png" width="80%">
+<img src="./image/AC23BP.png" width="40%">
 <br>
 
 Remove the chip from the board.<br>
-<img src="./image/remove_chip.png" width="80%">
+<img src="./image/remove_chip.png" width="60%">
 <br>
 
 Removed IC.<br>
-<img src="./image/AC23BP_chip.png" width="80%">
+<img src="./image/AC23BP_chip.png" width="40%">
 <br>
 
 Short the power signal.<br>
-<img src="./image/short_power_signal.png" width="80%">
+<img src="./image/short_power_signal.png" width="60%">
 <br>
 
 Bypass audio signal input.<br>
-<img src="./image/line_in.png" width="80%">
+<img src="./image/line_in.png" width="60%">
 <br>
 
 Bypass audio signal output.<br>
-<img src="./image/line_out.png" width="80%">
+<img src="./image/line_out.png" width="60%">
 <br>
 
 Board with Bluetooth removed.<br>
@@ -35,7 +35,7 @@ Board with Bluetooth removed.<br>
 <table>
   <thead>
     <tr>
-      <th>AS23BP</th>
+      <th colspan="4">AS23BP</th>
     </tr>
   </thead>
   <tbody>
@@ -45,14 +45,73 @@ Board with Bluetooth removed.<br>
       <td>24</td>
       <td>unknown</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>unknown</td>
+      <td>23</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>unknown</td>
+      <td>22</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>unknown</td>
+      <td>21</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>unknown</td>
+      <td>20</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Power signal</td>
+      <td>19</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>R signal out</td>
+      <td>18</td>
+      <td>Vcc</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>L signal out</td>
+      <td>17</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>unknown</td>
+      <td>16</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>unknown</td>
+      <td>15</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>GND</td>
+      <td>14</td>
+      <td>L signal in</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>unknown</td>
+      <td>13</td>
+      <td>R signal in</td>
+    </tr>
   </tbody>
 </table>
 
 
-AS23BP
-1
-2
-3
-4
-5
-6
