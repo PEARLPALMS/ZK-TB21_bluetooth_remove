@@ -23,6 +23,7 @@
     <tr><td>Pin 6</td><td><-- short --></td><td>C9</td></tr>
   </tbody>
 </table>
+Ex: M5350B regulator is MST5350BTS. 35v to 5v.<br>
 
 <img src="./image/short_power_signal.png" width="60%">
 <br>
