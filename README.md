@@ -17,15 +17,15 @@ Removed IC.<br>
 <br>
 
 Short the power signal.<br>
+short IC pin No 6 and C9.<br>
 <img src="./image/short_power_signal.png" width="60%">
 <br>
 
-Bypass audio signal input.<br>
-<img src="./image/line_in.png" width="60%">
-<br>
-
-Bypass audio signal output.<br>
-<img src="./image/line_out.png" width="60%">
+Bypass audio signal.<br>
+short C2 and C15. Left audio channel signal.<br>
+short C3 and C17. Right audio channel signal.<br>
+<img src="./image/line_in.png" width="40%">
+<img src="./image/line_out.png" width="40%">
 <br>
 
 Board with Bluetooth removed.<br>
