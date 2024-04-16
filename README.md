@@ -1,7 +1,8 @@
 # How to remove bluetooth from ZK-TB21 or ZK-MT21
 
 ## ZK-TB21 is 2.1ch power amplifier.<br>
-<img src="./image/ZK-TB21.png" width="40%"> <img src="./image/ZK-MT21.png" width="40%">
+<img src="./image/ZK-TB21.png" width="80%">
+<img src="./image/ZK-MT21.png" width="80%">
 <br>
 
 ## Bluetooth chip is JL AC23BP. No datasheet available.<br>
