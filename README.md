@@ -2,6 +2,9 @@
 
 ## ZK-TB21 is 2.1ch power amplifier.<br>
 <img src="./image/ZK-TB21.png" width="80%">
+<br>
+
+## ZK-MT21 is 2.1ch power amplifier.<br>
 <img src="./image/ZK-MT21.png" width="80%">
 <br>
 
